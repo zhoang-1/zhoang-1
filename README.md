@@ -1,19 +1,9 @@
 ### Hi there 👋  Tôi là  Hoàng
-Here's our logo (hover to see the title text):
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-<!--
 **zhoang-2/zhoang-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
--tại trường Đại Học Giao Thông Vận Tai Phân Hiệu Tại TP Hồ Chí Minh 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Trường Đại Học Giao Thông Vận Tai Phân Hiệu Tại TP Hồ Chí Minh
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
