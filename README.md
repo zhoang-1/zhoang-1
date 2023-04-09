@@ -14,7 +14,7 @@
 - 💻 &nbsp; C# | C++ 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Reactjs 
 - 🛢 &nbsp;  MySQL | Mongodb 
-- 🔧 &nbsp; Visual Studio code | Git 
+- 🔧 &nbsp; Visual Studio code | Visual Studio | Git 
 - 🖥 &nbsp;  Nothing ...
 
 
