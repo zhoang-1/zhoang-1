@@ -11,10 +11,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C# | C++ 
+- 💻 &nbsp; C | C++ | C# | Java 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Reactjs 
 - 🛢 &nbsp;  MySQL | Mongodb 
-- 🔧 &nbsp; Visual Studio code | Visual Studio | Git 
+- 🔧 &nbsp; Visual Studio code | Visual Studio | Git |  
 - 🖥 &nbsp;  Nothing ...
 
 
