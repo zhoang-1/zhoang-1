@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning tester, nextjs and jwt, ...
+- 🔭 &nbsp; I’m currently looking for an internship.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; front-end web developer, Back-end web developer..
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
