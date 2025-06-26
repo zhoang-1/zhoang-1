@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently looking for an internship.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; front-end web developer, Back-end web developer..
+- 💼 &nbsp; Full-stack developer, Software Engineer...
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
