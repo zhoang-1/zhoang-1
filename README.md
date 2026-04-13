@@ -1,40 +1,93 @@
-<h2> Hey there! I'm Hoàng IT. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<div align="center">
+  <img src="https://github.com/github.png" width="130" height="130" style="border-radius: 15px;" />
+</div>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h1 align="center">Turning data into decisions 🧠</h1>
 
-- 🔭 &nbsp; I’m currently looking for an internship.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Full-stack developer, Software Engineer...
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ABD200&center=true&vCenter=true&width=520&height=30&lines=Machine%20Learning%20Engineer%3BDeep%20Learning%20%C2%B7%20NLP%20%C2%B7%20Computer%20Vision%3BPython%20%C2%B7%20PyTorch%20%C2%B7%20TensorFlow%3BMaking%20models%20that%20ship%20to%20production" alt="Typing SVG" />
+</div>
 
+<div align="center">
+  <a href="https://linkedin.com/in/zhoang-it/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/zhoang-1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="huyhoangzzzzb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
-## 🌐Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.com/channels/@me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hoang.it.2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hoang.it.2/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nguy%E1%BB%85n-huy-ho%C3%A0ng-7753a9225/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@memenun1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/NguynHu09066797) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCEHPW-quflMeP8dnRFmT4Tg) 
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=1&alignment=center&bgSolidColor=2D4A2D&bgStartColor=2D4A2D&bgEndColor=2D4A2D&bgGradientDirection=horizontal" alt="Divider" />
+</div>
 
+## What I Work On 🔬
 
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊GitHub Stats :
+I research and build machine learning systems — from data pipelines and feature engineering to model training, evaluation, and deployment. I bridge the gap between research and production.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=zhoang-1&theme=radical&hide_border=false)<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhoang-1&show_icons=true&locale=en&layout=compact" alt="zhoang-1" /></p>
+<details open>
+<summary>📄 Research & Publications</summary>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhoang-1&show_icons=true&locale=en" alt="zhoang-1" /></p>
+- **[2024]** "Efficient Fine-Tuning of LLMs at Scale" — arxiv.org/abs/xxxx
+- **[2023]** "Real-Time Anomaly Detection in Time-Series Data" — arxiv.org/abs/yyyy
+- **[2022]** "Self-Supervised Representations for Medical Imaging" — NeurIPS Workshop
 
+</details>
 
----
-[![](https://visitcount.itsvg.in/api?id=zhoang-1&icon=0&color=0)](https://visitcount.itsvg.in)
->
+<details>
+<summary>🤖 Featured ML Projects</summary>
 
-<h3> 🤝🏻 Connect with Me </h3>
+- **llm-fine-tuner** — CLI for LoRA/QLoRA fine-tuning of open-source LLMs
+- **timeseries-bench** — Benchmark suite for time-series forecasting models
+- **cv-pipeline** — Modular computer vision training framework (PyTorch Lightning)
 
-<p align="center">
-&nbsp; <a href="https://www.tiktok.com/@memenun1" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/tiktok.png" width="50" /></a>  
-&nbsp; <a href="https://www.facebook.com/hoang.it.2" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-huy-ho%C3%A0ng-7753a9225/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="huyhoangzzzzb@gmail.comm" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
+</details>
 
-⭐️ From [Nguyễn Huy Hoàng](https://github.com/zhoang-2)
+## Core Stack 🧰
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,docker,github,linux,fastapi,js,ts,react,nextjs,nodejs,express,nestjs,c,cpp,cs,html,css,sass,tailwind,bootstrap,mongodb,mysql,postgres,redis,firebase,git,gitlab,vscode,ai,powershell,webpack,vite,postman&perline=10&theme=dark" />
+</div>
+
+### Data & Tooling 📦
+
+```python
+# A glimpse at my typical experiment setup
+import torch
+from transformers import AutoModelForCausalLM, AutoTokenizer
+from peft import LoraConfig, get_peft_model
+
+model = AutoModelForCausalLM.from_pretrained("mistralai/Mistral-7B-v0.1")
+config = LoraConfig(r=16, lora_alpha=32, target_modules=["q_proj", "v_proj"])
+model = get_peft_model(model, config)
+print(f"Trainable params: {model.num_parameters(only_trainable=True):,}")
+```
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=1&alignment=center&bgSolidColor=2D4A2D&bgStartColor=2D4A2D&bgEndColor=2D4A2D&bgGradientDirection=horizontal" alt="Divider" />
+</div>
+
+<h2 align="center">GitHub Activity 📊</h2>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/stats?username=zhoang-1&theme=merko&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=8" alt="GitHub Stats" width="49%" height="230" style="margin-right: 12px;" />
+  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=zhoang-1&theme=merko&layout=pie&hide_border=false&hide_progress=false&langs_count=6&border_radius=8" alt="Top Languages" width="49%" height="230" style="" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/activity?username=zhoang-1&theme=merko&hide_border=false" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/quotes?theme=merko&quote=In+God+we+trust%2C+all+others+must+bring+data.&author=W.+Edwards+Deming&textAlign=center&authorAlign=center" alt="Quote" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=0A0F0B&colorEnd=1A2F1B&height=100&section=footer&text=Data-driven.+Research-inspired.+Production-ready.&fontSize=24&fontColor=ABD200&animation=none&gradientDirection=horizontal&parallax=false&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=true&textAlignX=50&textAlignY=72" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/trophies?username=zhoang-1&theme=tokyonight&column=6&row=1&margin_w=15&margin_h=15&no_frame=false&no_bg=false" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Wave GIF" width="500" />
+</div>
+
